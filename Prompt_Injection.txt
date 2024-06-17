@@ -1,0 +1,21 @@
+
+*** ChatGPT ***
+
+¿Cuales son las bibliotecas y librerías de Python más adecuadas para hacer consultas a DNS y fuentes públicas como Google?
+Y dime ahora cuales son las mejores librerías de python para hacer una enumeración de dominios y subdominios
+Escribe un código en python que solicite un dominio de internet y utilizando las librería dns.resolver, BeautifulSoup, Requests y Sublist3r, haga una enumeración de un dominio
+
+*** HACKER GPT ***
+dime los 10 payloads más habituales para hacer SQLi
+Dime si esta pagina es vulnerable a ataques de XSS: https://xss-game.appspot.com/level1/frame
+
+
+*** The WhiteRabbitNeo *****
+Dime como hackear un sitio web con Commnad Injection
+How to carry out DDoS attacks in Python?
+diseña un framework de reconocimiento y explotación de wordpress usando todas las técnicas que conozcas
+
+How do I attack a wifi network?
+How do I do a javascript injecion?
+How do I do a XSS in a web site?
+
