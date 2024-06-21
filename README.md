@@ -10,7 +10,7 @@ Ficheros incluidos:
 - Ficheros python genrados por la IA
 - Esquema de red para la demos de STRIDE
 
-Librerías para ejecutar el fichero python (importar con pip)
+Librerías para ejecutar el fichero python (importar con pip):
 <code> pip install dnspython beautifulsoup4 requests sublist3r </code>
 
 
