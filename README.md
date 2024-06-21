@@ -5,6 +5,7 @@ Pagina de start.me con los enlaces utilizados en la preparación:
 https://start.me/p/n7d5w9/atlas
 
 Ficheros incluidos:
+- Presentación hecha en C1b3rWall 2024 (pdf) 
 - Promtp injection realizados
 - Ficheros python genrados por la IA
 - Esquema de red para la demos de STRIDE
