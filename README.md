@@ -13,4 +13,7 @@ Ficheros incluidos:
 Librerías para ejecutar el fichero python (importar con pip):
 <code> pip install dnspython beautifulsoup4 requests sublist3r </code>
 
-
+Para probar (leglmente): 
+- Prompt SQLi: http://testphp.vulnweb.com/login.php
+- Prompt XSS: https://xss-game.appspot.com/level1/frame
+ 
